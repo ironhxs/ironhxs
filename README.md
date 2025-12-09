@@ -158,19 +158,17 @@ me.say_hi()
 
 <br/><br/>
 
-<table width="800">
-<tr>
-<td align="center">
-  
-**💡 我的座右铭**
-
-> *"The biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin."*
-> 
-> **— Rich Sutton, The Bitter Lesson (2019)**
-
-</td>
-</tr>
-</table>
+```
+ ╔══════════════════════════════════════════════════════════════════════════════╗
+ ║                                                                              ║
+ ║   "The biggest lesson that can be read from 70 years of AI research is       ║
+ ║    that general methods that leverage computation are ultimately the most    ║
+ ║    effective, and by a large margin."                                        ║
+ ║                                                                              ║
+ ║                        — Rich Sutton, The Bitter Lesson (2019)               ║
+ ║                                                                              ║
+ ╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
