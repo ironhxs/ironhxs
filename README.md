@@ -128,14 +128,16 @@ me.say_hi()
 <br/>
 
 <!-- GitHub 连续贡献 -->
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ironhxs&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</a>
+<img src="https://streak-stats.demolab.com/?user=ironhxs&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/>
 
 <!-- GitHub 贡献蛇图 -->
-<img src="https://raw.githubusercontent.com/ironhxs/ironhxs/output/github-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br/>
 
