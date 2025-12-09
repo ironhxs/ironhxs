@@ -127,13 +127,6 @@ me.say_hi()
 
 <br/>
 
-<!-- GitHub 连续贡献 -->
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ironhxs&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</a>
-
-<br/>
-
 <!-- GitHub 贡献蛇图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ironhxs/ironhxs/output/github-snake-dark.svg">
