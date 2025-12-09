@@ -154,27 +154,23 @@ me.say_hi()
 
 <div align="center">
 
-<table>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
+
+<br/><br/>
+
+<table width="800">
 <tr>
-<td>
-
-### 💭 The Bitter Lesson
-
-<img src="https://img.shields.io/badge/Rich_Sutton-2019-blue?style=for-the-badge" alt="Rich Sutton 2019"/>
+<td align="center">
+  
+**💡 我的座右铭**
 
 > *"The biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin."*
-
-<p align="right"><b>— Rich Sutton</b></p>
-
-**核心观点:** 通用的、基于计算的方法最终是最有效的，这是70年AI研究的最大教训。
-
-📖 [阅读全文 →](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+> 
+> **— Rich Sutton, The Bitter Lesson (2019)**
 
 </td>
 </tr>
 </table>
-
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
