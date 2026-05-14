@@ -65,8 +65,8 @@ print(me.build())
 
 - **Missing-modality brain tumor segmentation**: 医学图像分割、模态缺失鲁棒融合。
 - **Particle-physics Code LLM**: 面向实验工作流的 RAG、Tool Calling 与代码理解。
-- **AIGC video detection / AV fusion**: DeMamba-style 视频分支、帧级预处理与音视频融合。
-- **Multimodal safety perception**: 视频行为识别、音频情绪识别与本地化部署。
+- **Multimodal video understanding**: DeMamba-style AIGC 视频检测、帧级预处理、行为识别与音视频融合。
+- **Software Cup AI resource agent**: FastAPI + LangGraph/LangChain，面向教学资源生成、评测、演示和回放流程。
 
 </td>
 <td width="42%" align="center" valign="middle">
