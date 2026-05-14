@@ -92,6 +92,16 @@ print(me.build())
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/ironhxs/cancer-causal-analysis-platform">
+  <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ironhxs&repo=cancer-causal-analysis-platform&theme=tokyonight&hide_border=true" alt="cancer-causal-analysis-platform"/>
+</a>
+
+**Cancer Causal Analysis Platform**<br/>
+面向乳腺癌数据分析与医学影像场景，结合 Vue、Spring Boot 与 Python 因果分析流程，支持因果图生成、特征排序和可解释分析。
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/ironhxs/qinglong-bay-smart-tourism">
   <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ironhxs&repo=qinglong-bay-smart-tourism&theme=tokyonight&hide_border=true" alt="qinglong-bay-smart-tourism"/>
 </a>
@@ -100,6 +110,8 @@ print(me.build())
 React + Vite + Express + TypeScript + SQLite + Three.js。面向生态文旅场景，覆盖沉浸导览、智能游程、AI 文创、生态数据与运营看板。
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/ironhxs/VigiLens-EduGuard-FusionSys">
@@ -110,8 +122,6 @@ React + Vite + Express + TypeScript + SQLite + Three.js。面向生态文旅场�
 多模态校园安全感知系统，聚焦视频行为分析与音频情绪识别融合，面向校园安全预警与本地化部署场景。
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/ironhxs/Oops-Os">
@@ -122,7 +132,31 @@ React + Vite + Express + TypeScript + SQLite + Three.js。面向生态文旅场�
 基于 xv6-RISC-V 的小型 OS 内核实现，围绕进程调度、文件系统、内存管理和设备管理扩展系统调用与内核服务。
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
+
+<a href="https://github.com/ironhxs/hfut-xc-lab-resource-manage">
+  <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ironhxs&repo=hfut-xc-lab-resource-manage&theme=tokyonight&hide_border=true" alt="hfut-xc-lab-resource-manage"/>
+</a>
+
+**实验室资源管理系统**<br/>
+Spring MVC + MyBatis-Plus + JSP + MySQL 的 Java Web 管理系统，覆盖实验室信息、资产台账、活动、请假、借用、维修和公告管理。
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ironhxs/WebServer">
+  <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ironhxs&repo=WebServer&theme=tokyonight&hide_border=true" alt="WebServer"/>
+</a>
+
+**C++ WebServer**<br/>
+C++11 高并发 Web 服务器，包含 Epoll、线程池、连接池、异步日志、定时器、文件上传和状态监控等模块。
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 <a href="https://github.com/ironhxs/DotsAndBoxes_AlphaZero">
   <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ironhxs&repo=DotsAndBoxes_AlphaZero&theme=tokyonight&hide_border=true" alt="DotsAndBoxes_AlphaZero"/>
