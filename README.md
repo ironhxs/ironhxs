@@ -156,7 +156,7 @@ C++11 高并发 Web 服务器，包含 Epoll、线程池、连接池、异步日
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 <a href="https://github.com/ironhxs/DotsAndBoxes_AlphaZero">
   <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ironhxs&repo=DotsAndBoxes_AlphaZero&theme=tokyonight&hide_border=true" alt="DotsAndBoxes_AlphaZero"/>
@@ -164,6 +164,16 @@ C++11 高并发 Web 服务器，包含 Epoll、线程池、连接池、异步日
 
 **DotsAndBoxes AlphaZero**<br/>
 基于 OpenSpiel + PyTorch 的点格棋 AlphaZero 实现，包含自我对弈、MCTS、神经网络训练与 Arena 评估。
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ironhxs/FlowerRecognition">
+  <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ironhxs&repo=FlowerRecognition&theme=tokyonight&hide_border=true" alt="FlowerRecognition"/>
+</a>
+
+**Flower Recognition**<br/>
+基于 PyTorch 的 100 类花卉识别系统，包含模型训练、数据增强、配置管理、推理评估和竞赛约束下的工程化优化。
 
 </td>
 </tr>
