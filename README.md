@@ -61,15 +61,12 @@ print(me.build())
 <tr>
 <td width="58%" valign="top">
 
-### 🎯 当前专注
+### 🎯 当前专注（Private / Ongoing）
 
-| Direction | Working On |
-| --- | --- |
-| Multimodal AI & CV | 脑肿瘤分割中的模态缺失问题；视频/音频融合的视觉安全感知 |
-| LLM & Code Intelligence | RAG、Agent、Tool Calling；面向粒子物理实验场景的 Code LLM 探索 |
-| Systems Engineering | RISC-V/xv6 小型内核、系统调用扩展、工程化运行与验证 |
-| Product Prototyping | 智慧文旅、实验室资源管理、IoT 小程序等可演示系统原型 |
-| Algorithm Practice | 强化学习、自我对弈、建模竞赛与 LeetCode 训练 |
+- **Missing-modality brain tumor segmentation**: 医学图像分割、模态缺失鲁棒融合。
+- **Particle-physics Code LLM**: 面向实验工作流的 RAG、Tool Calling 与代码理解。
+- **AIGC video detection / AV fusion**: DeMamba-style 视频分支、帧级预处理与音视频融合。
+- **Multimodal safety perception**: 视频行为识别、音频情绪识别与本地化部署。
 
 </td>
 <td width="42%" align="center" valign="middle">
