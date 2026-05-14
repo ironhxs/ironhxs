@@ -85,96 +85,12 @@ print(me.build())
 
 ## 🏆 Featured Projects | 精选项目
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/ironhxs/cancer-causal-analysis-platform">
-  <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ironhxs&repo=cancer-causal-analysis-platform&theme=tokyonight&hide_border=true" alt="cancer-causal-analysis-platform"/>
-</a>
-
-**Cancer Causal Analysis Platform**<br/>
-面向乳腺癌数据分析与医学影像场景，结合 Vue、Spring Boot 与 Python 因果分析流程，支持因果图生成、特征排序和可解释分析。
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/ironhxs/qinglong-bay-smart-tourism">
-  <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ironhxs&repo=qinglong-bay-smart-tourism&theme=tokyonight&hide_border=true" alt="qinglong-bay-smart-tourism"/>
-</a>
-
-**青龙湾生态智能系统**<br/>
-React + Vite + Express + TypeScript + SQLite + Three.js。面向生态文旅场景，覆盖沉浸导览、智能游程、AI 文创、生态数据与运营看板。
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/ironhxs/VigiLens-EduGuard-FusionSys">
-  <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ironhxs&repo=VigiLens-EduGuard-FusionSys&theme=tokyonight&hide_border=true" alt="VigiLens-EduGuard-FusionSys"/>
-</a>
-
-**VigiLens-EduGuard-FusionSys**<br/>
-多模态校园安全感知系统，聚焦视频行为分析与音频情绪识别融合，面向校园安全预警与本地化部署场景。
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/ironhxs/Oops-Os">
-  <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ironhxs&repo=Oops-Os&theme=tokyonight&hide_border=true" alt="Oops-Os"/>
-</a>
-
-**OopsOS**<br/>
-基于 xv6-RISC-V 的小型 OS 内核实现，围绕进程调度、文件系统、内存管理和设备管理扩展系统调用与内核服务。
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/ironhxs/hfut-xc-lab-resource-manage">
-  <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ironhxs&repo=hfut-xc-lab-resource-manage&theme=tokyonight&hide_border=true" alt="hfut-xc-lab-resource-manage"/>
-</a>
-
-**实验室资源管理系统**<br/>
-Spring MVC + MyBatis-Plus + JSP + MySQL 的 Java Web 管理系统，覆盖实验室信息、资产台账、活动、请假、借用、维修和公告管理。
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/ironhxs/WebServer">
-  <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ironhxs&repo=WebServer&theme=tokyonight&hide_border=true" alt="WebServer"/>
-</a>
-
-**C++ WebServer**<br/>
-C++11 高并发 Web 服务器，包含 Epoll、线程池、连接池、异步日志、定时器、文件上传和状态监控等模块。
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/ironhxs/DotsAndBoxes_AlphaZero">
-  <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ironhxs&repo=DotsAndBoxes_AlphaZero&theme=tokyonight&hide_border=true" alt="DotsAndBoxes_AlphaZero"/>
-</a>
-
-**DotsAndBoxes AlphaZero**<br/>
-基于 OpenSpiel + PyTorch 的点格棋 AlphaZero 实现，包含自我对弈、MCTS、神经网络训练与 Arena 评估。
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/ironhxs/FlowerRecognition">
-  <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ironhxs&repo=FlowerRecognition&theme=tokyonight&hide_border=true" alt="FlowerRecognition"/>
-</a>
-
-**Flower Recognition**<br/>
-基于 PyTorch 的 100 类花卉识别系统，包含模型训练、数据增强、配置管理、推理评估和竞赛约束下的工程化优化。
-
-</td>
-</tr>
-</table>
+| Project | Project |
+| --- | --- |
+| **[Cancer Causal Analysis Platform](https://github.com/ironhxs/cancer-causal-analysis-platform)**<br/>`Python` `Vue` `Spring Boot` `Causal Analysis`<br/>面向乳腺癌数据分析与医学影像场景，支持因果图生成、特征排序和可解释分析。 | **[青龙湾生态智能系统](https://github.com/ironhxs/qinglong-bay-smart-tourism)**<br/>`TypeScript` `React` `Express` `SQLite` `Three.js`<br/>面向生态文旅场景，覆盖沉浸导览、智能游程、AI 文创、生态数据和运营看板。 |
+| **[VigiLens-EduGuard-FusionSys](https://github.com/ironhxs/VigiLens-EduGuard-FusionSys)**<br/>`Python` `PaddlePaddle` `VideoSwin` `Multimodal`<br/>多模态校园安全感知系统，融合视频行为分析与音频情绪识别，面向校园安全预警。 | **[OopsOS](https://github.com/ironhxs/Oops-Os)**<br/>`C` `RISC-V` `xv6` `Operating System`<br/>基于 xv6-RISC-V 的小型 OS 内核实现，扩展进程、文件、内存和设备管理能力。 |
+| **[实验室资源管理系统](https://github.com/ironhxs/hfut-xc-lab-resource-manage)**<br/>`Java` `Spring MVC` `MyBatis-Plus` `JSP` `MySQL`<br/>高校实验室资源管理系统，覆盖实验室信息、资产台账、活动、请假、借用、维修和公告管理。 | **[C++ WebServer](https://github.com/ironhxs/WebServer)**<br/>`C++11` `Epoll` `Thread Pool` `MySQL`<br/>高并发 Web 服务器，包含线程池、连接池、异步日志、定时器、文件上传和状态监控。 |
+| **[DotsAndBoxes AlphaZero](https://github.com/ironhxs/DotsAndBoxes_AlphaZero)**<br/>`Python` `PyTorch` `OpenSpiel` `MCTS`<br/>点格棋 AlphaZero 实现，包含自我对弈、MCTS、神经网络训练和 Arena 模型评估。 | **[Flower Recognition](https://github.com/ironhxs/FlowerRecognition)**<br/>`Python` `PyTorch` `Computer Vision` `Classification`<br/>100 类花卉识别系统，包含模型训练、数据增强、推理评估和竞赛约束优化。 |
 
 ---
 
